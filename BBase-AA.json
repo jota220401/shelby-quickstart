@@ -38,7 +38,7 @@
 				"noUnusedTemplateLiteral": "error",
 				"useNumberNamespace": "error",
 				"noInferrableTypes": "error",
-				"noUselessElse": "e
+				"noUselessElse":
 			}
 		}
 	},
